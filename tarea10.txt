@@ -1,3 +1,7 @@
 Esta es mi tarea hecha en el repositorio local
 bla bla bla bla
 Ahora si hice modificaciones sobre el repo local
+
+####################################################
+Esta es la modificacion remota de mi tarea 10
+>>>>>>> 68c2d02c8e53fa264a0270412a9f1a21b1cc4529
