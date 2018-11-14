@@ -1,0 +1,155 @@
+commit 4d463f630b68a08e560ef96c0e788e296a22aff3
+Merge: c4b0eaa 68c2d02
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Wed Nov 7 17:29:19 2018 +0000
+
+    resolvi los conflictos
+
+commit 68c2d02c8e53fa264a0270412a9f1a21b1cc4529
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:54 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificación remota de tarea 10
+
+commit c4b0eaac44b3576b883cd982f42b697d9741661a
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Wed Nov 7 17:24:05 2018 +0000
+
+    actualizacion local
+
+commit 787976080d1b1911218ba357665c51301ed2a81f
+Merge: 5247e34 966d7dd
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Wed Nov 7 17:13:52 2018 +0000
+
+    Merge branch 'master' of https://github.com/Karenisabelmor/practicastc1022
+    
+    Este merge es para combinar tarea local con tarea11 remota
+
+commit 966d7dd87084b32854070ab2d8191864894d0c61
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Nov 7 11:15:13 2018 -0600
+
+    Create tarea11.txt
+    
+    Subi mi tarea al repositorio local
+
+commit 5247e340347c6452fb11844cf186724d3b9db4ed
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Wed Nov 7 17:12:11 2018 +0000
+
+    tarea local
+
+commit da7afaabdb8c68841b6edb5bb9330d9bf44c5049
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Sun Oct 28 12:13:21 2018 -0600
+
+    Add files via upload
+    
+    Programa año bisiesto
+
+commit 18648383c8a94f8ca5d4e0b882508d3204d56669
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Thu Oct 25 00:38:56 2018 +0000
+
+    mi primer commit
+
+commit bc3e4e40a1db528b186ae4327a668d2db7752a21
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 19:36:40 2018 -0500
+
+    Add files via upload
+    
+    Visita de Fb
+
+commit 41349503f960aaf07a0dcf86a25a5db16ce997ad
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Thu Oct 25 00:35:21 2018 +0000
+
+    mi primer commit
+
+commit 70b06767d813e19a1873ec039fb0d7b26676f6b9
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 19:32:00 2018 -0500
+
+    Add files via upload
+    
+    Plática Deloitte
+
+commit 1787e2edc070cbade553d4cf5d92bde7a2caef99
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Thu Oct 25 00:30:38 2018 +0000
+
+    mi primer commit
+
+commit d4974af1ef7252cf9c07cd7e7da6e02e84b01efb
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 19:27:07 2018 -0500
+
+    Add files via upload
+    
+    Evento CISCO
+
+commit 22181be741d348777192a615202c5d6760dd9f7b
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Thu Oct 25 00:26:01 2018 +0000
+
+    mi primer commit
+
+commit 1ab7bb0e81a084b0019a41235238bc00e3d3c11c
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 19:20:19 2018 -0500
+
+    Add files via upload
+    
+    Tarea Evento Microsoft
+
+commit 82ad5c65a73e09464ecb9f00e85e89ea9388c134
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Thu Oct 25 00:10:24 2018 +0000
+
+    primer commit
+
+commit 47d6333b5022300637802e2d1c275be725a94875
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 19:00:14 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit c301654bed2b381cf381e4ca260e402c8f2b2776
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 18:58:46 2018 -0500
+
+    Delete Karen Isabel Morgado Castillo - T1.1.plática Drink IQ.docx
+
+commit eb538a683ee997550aedd5ad2523f3517fb37c4d
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 18:50:33 2018 -0500
+
+    Add files via upload
+
+commit 293e8f3969948f4d771173e06b2bd0a9badceba6
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 18:41:44 2018 -0500
+
+    Add files via upload
+    
+    Mi Llave Pública
+
+commit af477dd53840b04a1038100c9df117c755657d07
+Author: Karenisabelmor <42215267+Karenisabelmor@users.noreply.github.com>
+Date:   Wed Oct 24 18:37:47 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit 837864e971873cc0ed7b0f8af1eed1d08dd760d0
+Author: Karenisabelmor <A01027446@itesm.mx>
+Date:   Wed Oct 24 23:28:11 2018 +0000
+
+    mi primer commit
